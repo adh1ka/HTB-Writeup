@@ -79,6 +79,7 @@ int __fastcall main(int argc, const char **argv, const char **envp)
 ```
 
 Sekilas, dari main function di atas tidak terlihat sesuatu yang mencurigakan. 
+
 ![Pasted image 20240707022102](https://github.com/adh1ka/HTB-Writeup/assets/135927661/340879a7-8782-4035-a394-12729a1fd478)
 
 Pada Function name, terlihat ViewController SecretManager:key:iv:data, yang bisa menjadi petunjuk selanjutnya. Berdasarkan SecretManager ini, terlihat bahwa metode enkripsinya menggunakan AES.
