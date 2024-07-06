@@ -1,10 +1,15 @@
 ![Pasted image 20240707015502](https://github.com/adh1ka/HTB-Writeup/assets/135927661/64e2bb89-c7a0-4abf-a86a-c80089d496ba)
 
-CTF Name           : HackTheBox Challenges
-Challenge category : Mobile
-Challenge Name     : Cryptohorrific
-Challenge points   : 40 Points
-Challenge desc     : Secure coding is the keystone of the application                        security!
+CTF Name		: HackTheBox Challenges
+
+Challenge category	: Mobile
+
+Challenge Name		: Cryptohorrific
+
+Challenge points	: 40 Points
+
+Challenge desc		: Secure coding is the keystone of the application security!
+
 https://app.hackthebox.com/challenges/Cryptohorrific
 ![Pasted image 20240707020157](https://github.com/adh1ka/HTB-Writeup/assets/135927661/1030d82c-ddc1-4ccc-a3e8-581758d3fd5e)
 
