@@ -1,8 +1,13 @@
 CTF Name           : HackTheBox Challenges
+
 Challenge category : Reversing
+
 Challenge Name     : Baby RE
+
 Challenge points   : 0 Points
+
 Challenge desc     : Show us your basic skills! (P.S. There are 4 ways to solve this, are you willing to try them all?)
+
 
 Langsung saja kita kerjakan, yang pertama kita periksa terlebih dahulu type filenya dengan command ‘file’ seperti berikut.
 ```
