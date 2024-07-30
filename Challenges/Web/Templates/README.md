@@ -1,6 +1,6 @@
 CTF Name : HackTheBox Challenges  
 Challenge category : Web  
-Challenge Name : Templates  
+Challenge Name : Templated  
 Challenge points : 0 Points — Easy  
 Challenge desc : Can you exploit this simple mistake?
 
