@@ -58,3 +58,7 @@ HTB{B4BY_R3V_TH4TS_EZ}
 ```
 
 Flag : HTB{B4BY_R3V_TH4TS_EZ}
+
+Semoga Bermanfaat:)
+
+For more write-ups, visit my [Medium](https://medium.com/@adh1ka) and [personal blog](https://root.ce.student.pens.ac.id).
