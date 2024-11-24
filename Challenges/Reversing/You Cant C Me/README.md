@@ -44,7 +44,5 @@ Terlihat bahwa program melakukan pengecekan input dengan string `wh00ps!_y0u_d1d
 $ ./auth    
 Welcome!  
 wh00ps!_y0u_d1d_c_m3  
-HTB{wh00ps!_y0u_d1d_c_m3}
+HTB{xxxxxxx}
 ```
-
-Flag : HTB{wh00ps!_y0u_d1d_c_m3}
