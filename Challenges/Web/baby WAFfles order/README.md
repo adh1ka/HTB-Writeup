@@ -205,20 +205,12 @@ Payload di atas akan memanggil /etc/passwd dari server, tag ‘order’ dan tag 
 ![Pasted image 20240807231806](https://github.com/user-attachments/assets/d5ce57dc-57cf-4973-a9c2-da56f74b68b0)
 
 
-Dan berikut adalah outputnya.
-![Pasted image 20240807232104](https://github.com/user-attachments/assets/af801d10-752b-4ace-bcf2-694ea7bedc17)
-
-
 
 Ternyata benar webnya memiliki kerentanan terhadap XXE, selanjutnya adalah objektif kita untuk mencari flagnya, yaitu dengan mengubah ‘/etc/passwd’ dengan ‘/flag’ barangkali flagnya ditaruh di /flag. 
 
 ![Pasted image 20240807232047](https://github.com/user-attachments/assets/87ecabf3-4921-4f5f-b8a1-854bb38dcc20)
 
-Dan berikut adalah outputnya.
-![Pasted image 20240807232104](https://github.com/user-attachments/assets/66d7e859-f835-4476-ac91-e449c65a6e43)
 
-
-Flag : HTB{wh0_l3t_th3_XX3_0ut??w00f..w00f..w00f..WAFfles!}
 
 Terima Kasih Semoga Bermanfaat:)
-Urip iku Urup
+
