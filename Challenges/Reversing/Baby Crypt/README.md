@@ -83,7 +83,7 @@ Sudah kita dapatkan keynya yaitu output di atas, berhubung program tadi mengambi
 ```
 $ ./baby_crypt  
 Give me the key and I'll give you the flag: w0w  
-HTB{x0r_1s_us3d_by_h4x0r!}
+HTB{xxxxxxxxxx!}
 ```
 
 Terima Kasih Semoga Membantu :)
