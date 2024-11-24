@@ -54,10 +54,10 @@ $ chmod +x baby
 $ ./baby
 Insert key:    
 abcde122313  
-HTB{B4BY_R3V_TH4TS_EZ}
+HTB{xxxxxxxxxx}
 ```
 
-Flag : HTB{B4BY_R3V_TH4TS_EZ}
+Flag : HTB{xxxxxxxx}
 
 Semoga Bermanfaat:)
 
