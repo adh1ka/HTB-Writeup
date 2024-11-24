@@ -31,7 +31,8 @@ Ternyata bisa, untuk selanjutnya langsung saja kita cari flagnya dengan `; cat /
 
 Dan voila kita dapatkan flagnya. 
 
-![image](https://github.com/user-attachments/assets/b4557456-5397-4093-9dd9-986258cdbfff)
+![image](https://github.com/user-attachments/assets/0fa010cb-0bc4-41a8-808b-bdb838d18dd2)
+
 
 
 
