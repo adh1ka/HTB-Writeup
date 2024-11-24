@@ -49,12 +49,10 @@ Dcode mengenali ini sebagai MD5 Hash, langsung aja decrypt dengan cara klik ‘M
 
 
 Kita dapatkan passwordnya yaitu ‘adminadmin1’, setelah itu kita login di web awal tadi dengan data admin yang terdapat pada database.sqlite tadi, yaitu email : nginxatsu-adm-01@makelarid.es dan password : adminadmin1.
+![image](https://github.com/user-attachments/assets/54dd37f3-9fe3-4368-b7c4-1e8c9ad814c5)
 
-![Pasted image 20240802221247](https://github.com/user-attachments/assets/49ec3201-ae27-4831-9781-fb4b17447254)
 
 
 Voila kita dapatkan flagnya.
-
-Flag : HTB{ng1ngx_r34lly_b3_sp1ll1ng_my_w3ll_h1dd3n_s3cr3ts??}
 
 Terima Kasih Semoga Membantu:)
