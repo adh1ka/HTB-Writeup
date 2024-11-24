@@ -34,7 +34,6 @@ OR 1=1 akan selalu menghasilkan nilai true, dan —- -adalah comment dalam SQL y
 
 Berikut adalah outputnya.
 
-![Pasted image 20240802022304](https://github.com/user-attachments/assets/71a21cac-ace6-4299-8f04-ba8754d9ca92)
+![image](https://github.com/user-attachments/assets/27a80e1d-04ba-45d3-ad15-f95a0ff80bdd)
 
 
-Flag : HTB{SQL_1nj3ct1ng_my_w4y_0utta_h3r3}
