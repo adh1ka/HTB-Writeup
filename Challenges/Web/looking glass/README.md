@@ -31,9 +31,8 @@ Ternyata bisa, untuk selanjutnya langsung saja kita cari flagnya dengan `; cat /
 
 Dan voila kita dapatkan flagnya. 
 
-![Pasted image 20240802014549](https://github.com/user-attachments/assets/367c470c-6e0b-4064-9479-2a6678fc6474)
+![image](https://github.com/user-attachments/assets/b4557456-5397-4093-9dd9-986258cdbfff)
 
 
-Flag : HTB{I_f1n4lly_l00k3d_thr0ugh_th3_rc3}
 
 Terima Kasih Semoga Membantu :)
