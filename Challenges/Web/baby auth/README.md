@@ -55,7 +55,8 @@ PHPSESSID tadi berisi username yang kita gunakan untuk login. Berhubung pada web
 Dan voila kita dapatkan flagnya.
 
 
-![Pasted image 20240802172035](https://github.com/user-attachments/assets/4cc3744c-7b90-4b7e-a987-d0cdc9ef66ee)
+![image](https://github.com/user-attachments/assets/3d3b088e-e261-4340-9e22-39f15895df0b)
+
 
 
 Terima Kasih Semoga Bermanfaat :)
